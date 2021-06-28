@@ -14,7 +14,6 @@
 > |<a href="https://softuni.bg/trainings/3007/csharp-advanced-september-2020"> 📌 C# Advanced </a>| 📆 15.09.2020 - 25.10.2020 | |<a href="https://softuni.bg/certificates/details/90239/44a3f131">📜&nbsp;✔️</a> |
 > |<a href="https://softuni.bg/trainings/3008/csharp-oop-october-2020"> 📌 C# OOP </a>| 📆 27.10.2020 - 12.12.2020 | |<a href="https://softuni.bg/certificates/details/105526/cab4ff0c">📜&nbsp;✔️</a> |
 > |<a href="https://softuni.bg/trainings/3272/ms-sql-january-2021"> 📌 MS SQL Server </a>| 📆 11.01.2021 - 13.02.2021 | |<a href="https://softuni.bg/Certificates/Details/105526/cab4ff0c">📜&nbsp;✔️</a> |
-> > |<a href="https://softuni.bg/trainings/3221/entity-framework-core-february-2021"> 📌 Entity Framework Core </a>| 📆 15.02.2021 - 04.04.2021 | |<a href="">📜&nbsp;❌-4.74</a> 
 > |<a href="https://softuni.bg/trainings/3353/csharp-web-basics-basics-may-2021"> 📍 C# Web Basics </a>| 📆 18.05.2021 - 25.08.2021 | |<a href="">📜&nbsp;💡</a> |
 > |<a href="https://softuni.bg/trainings/3354/asp-dot-net-core-june-2021"> 📍 ASP.NET Core </a>| 📆  29.06.2021 - 28.08.2021 | |<a href="">📜&nbsp;💡</a> |
 </br>
