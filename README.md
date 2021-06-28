@@ -16,6 +16,12 @@
 > |<a href="https://softuni.bg/trainings/3353/csharp-web-basics-basics-may-2021"> 📍 C# Web Basics </a>| 📆 18.05.2021 - 25.08.2021 | |<a href="">📜&nbsp;💡</a> |
 > |<a href="https://softuni.bg/trainings/3354/asp-dot-net-core-june-2021"> 📍 ASP.NET Core </a>| 📆  29.06.2021 - 28.08.2021 | |<a href="">📜&nbsp;💡</a> |
 
+### 🛠️ &nbsp;Programing languages
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)&nbsp;&nbsp;
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/CSS-1572B6?&style=flat&logo=css3&logoColor=white)&nbsp;&nbsp;
+
 <!---
 DaniHristov/DaniHristov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
