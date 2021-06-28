@@ -16,6 +16,9 @@
 > |<a href="https://softuni.bg/trainings/3353/csharp-web-basics-basics-may-2021"> 📍 C# Web Basics </a>| 📆 18.05.2021 - 25.08.2021 | |<a href="">📜&nbsp;💡</a> |
 > |<a href="https://softuni.bg/trainings/3354/asp-dot-net-core-june-2021"> 📍 ASP.NET Core </a>| 📆  29.06.2021 - 28.08.2021 | |<a href="">📜&nbsp;💡</a> |
 
+> ## 🎓 &nbsp;Passed courses and their Certificates
+> |**Courses**|**Date**||**Certificates**|
+> | :--- | :---: |-| :---: |
 > |<a href="https://softuni.bg/trainings/1992/programming-basics-with-csharp-june-2018"> 📌 Programming Basics with C# </a>| 📆 02.06.2018 - 21.07.2018 | | <a href="https://softuni.bg/certificates/details/56599/75cbc077">📜&nbsp;✔️</a> |
 > |<a href="https://softuni.bg/trainings/2237/technology-fundamentals-with-csharp-january-2019"> 📌Technology Fundamentals with C# </a>| 📆 21.01.2019 - 14.04.2019 | | <a href="https://softuni.bg/certificates/details/66815/fa635174">📜&nbsp;✔️</a> |
 > |<a href="https://softuni.bg/trainings/3007/csharp-advanced-september-2020"> 📌 C# Advanced </a>| 📆 15.09.2020 - 25.10.2020 | |<a href="https://softuni.bg/certificates/details/90239/44a3f131">📜&nbsp;✔️</a> |
