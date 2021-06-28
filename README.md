@@ -20,7 +20,6 @@
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)&nbsp;&nbsp;
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;&nbsp;
-![CSS3](https://img.shields.io/badge/CSS-1572B6?&style=flat&logo=css3&logoColor=white)&nbsp;&nbsp;
 
 <!---
 DaniHristov/DaniHristov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
