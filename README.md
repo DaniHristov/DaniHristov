@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DaniHristov
-- 👀 I’m interested in becoming Full-Stack Dev 
+- 👀 I’m interested in becoming Full-Stack Developer 
 - 🌱 I’m currently learning C# Web & ASP.NET 
 - 💞️ I’m looking to collaborate on Web projects 
 - 📫 How to reach me danihristov1@abv.bg
@@ -20,6 +20,11 @@
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)&nbsp;&nbsp;
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;&nbsp;
+
+### ✍️ &nbsp;Contact with me
+
+<a href="https://www.linkedin.com/in/daniel-hristov-697285200/"><img src="https://img.shields.io/badge/-Daniel%20Hristov-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="https://www.facebook.com/daniel.hristov.946/"><img src="https://img.shields.io/badge/-Daniel%20Hristov-1877F2?style=flat&logo=facebook&logoColor=white"/></a>&nbsp;
 
 <!---
 DaniHristov/DaniHristov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
