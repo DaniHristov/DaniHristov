@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning C# Web & ASP.NET 
 - 💞️ I’m looking to collaborate on Web projects 
 - 📫 How to reach me danihristov1@abv.bg
-- 
 > ## 🎓 &nbsp;Passed courses and their Certificates
 > |**Courses**|**Date**||**Certificates**|
 > | :--- | :---: |-| :---: |
