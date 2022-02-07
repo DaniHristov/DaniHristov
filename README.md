@@ -17,8 +17,6 @@
 
 ### 🛠️ &nbsp;Programing languages
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)&nbsp;&nbsp;
-![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)&nbsp;&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;&nbsp;
 
 ### ✍️ &nbsp;Contact with me
 
