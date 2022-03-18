@@ -17,6 +17,7 @@
 
 ### 🛠️ &nbsp;Programing languages
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)&nbsp;&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-red)&nbsp;&nbsp;
 
 ### ✍️ &nbsp;Contact with me
 
