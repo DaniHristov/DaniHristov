@@ -22,8 +22,6 @@
 ### ✍️ &nbsp;Contact with me
 
 <a href="https://www.linkedin.com/in/daniel-hristov-697285200/"><img src="https://img.shields.io/badge/-Daniel%20Hristov-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="https://www.facebook.com/daniel.hristov.946/"><img src="https://img.shields.io/badge/-Daniel%20Hristov-1877F2?style=flat&logo=facebook&logoColor=white"/></a>&nbsp;
-
 <!---
 DaniHristov/DaniHristov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
